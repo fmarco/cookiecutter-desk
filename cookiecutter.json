@@ -1,0 +1,7 @@
+{
+    "project_name": "project",
+    "path": "~/www",
+    "env_activate": ".",
+    "env_path": "env/bin/activate",
+    "editor": "code"
+}
